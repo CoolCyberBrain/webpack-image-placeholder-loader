@@ -54,7 +54,7 @@
     "@types/jest": "^26.0.22",
     "@types/node": "^16.3.1",
     "@types/sharp": "^0.28.3",
-    "@types/tinycolor2": "^1.4.2",
+    "@types/tinycolor2": "^1.4.3",
     "@types/webpack": "^4.41.24",
     "@typescript-eslint/eslint-plugin": "^4.28.3",
     "@typescript-eslint/parser": "^4.28.3",
